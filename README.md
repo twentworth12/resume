@@ -77,9 +77,9 @@ Software engineer and long-time sales engineer before moving into marketing. Lea
 
 ## Side Projects
 
-I still ship code. A few things on this GitHub:
+I still ship code. A few things I've built:
 
-- [linkedin-ads-manager-plugin](https://github.com/twentworth12/linkedin-ads-manager-plugin): a Claude Cowork plugin to manage LinkedIn ad campaigns
+- **marketing-os**: a private marketplace of 10 Claude Cowork plugins I built for the incident.io marketing team, including an in-house paid-ads agency that runs LinkedIn, Meta, and Google Ads end to end, brand-voice copy and case study writers, AEO content optimization, and Salesforce list cleaning and campaign builders. Sole author, 100+ PRs, ~99% Python.
 - [pagertron-ios](https://github.com/twentworth12/pagertron-ios): an iOS app
 - [plunge-timer](https://github.com/twentworth12/plunge-timer): a Swift timer app
 - [tomwentworth.com](https://github.com/twentworth12/twentworth12.github.io): my blog, migrated from WordPress to Jekyll
