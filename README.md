@@ -12,12 +12,12 @@ My rule of thumb for marketing in 2026: **Marketing Output = AI × Taste²**
 
 ## Experience
 
-### Chief Marketing Officer, incident.io
+### Chief Marketing Officer, [incident.io](https://incident.io)
 *Oct 2024 to Present · Remote*
 
 Leading global marketing for the incident response and on-call platform. Running a team of nine, with most of my time going into the systems that let a small team punch above its weight: a centralized GTM context library, a swarm of agents, and a custom AI CMO.
 
-### Chief Marketing Officer, Recorded Future
+### Chief Marketing Officer, [Recorded Future](https://www.recordedfuture.com)
 *Nov 2019 to Oct 2024 · Boston*
 
 Led the global marketing team for five years through the $2.65B acquisition by Mastercard.
@@ -27,12 +27,12 @@ Led the global marketing team for five years through the $2.65B acquisition by M
 - Scaled the annual Predict customer conference to four locations with over 1,000 attendees
 - Launched Recorded Future News and its two flagship media properties: The Record, one of the largest cybersecurity news sites, and Click Here, a National Murrow Award-winning podcast that consistently ranks in the Top 5 Tech News podcast category
 
-### SVP Product Marketing, Acquia
+### SVP Product Marketing, [Acquia](https://www.acquia.com)
 *Jan 2019 to Nov 2019 · Boston*
 
 Rejoined Acquia to lead Product Marketing. Acquired three companies to round out the Digital Experience portfolio and introduced simplified product packaging across Drupal Cloud and Marketing Cloud. Left after the $1B acquisition by Vista Equity Partners.
 
-### Chief Marketing Officer, RapidMiner
+### Chief Marketing Officer, [RapidMiner](https://rapidminer.com)
 *Nov 2015 to Jan 2019 · Boston*
 
 Responsible for global go-to-market strategy (100% product-led growth), product marketing, and communications at a low-code machine learning pioneer.
@@ -40,7 +40,7 @@ Responsible for global go-to-market strategy (100% product-led growth), product 
 - Tripled ARR and transformed a classic top-down enterprise selling model into bottoms-up product-led growth
 - Led placement as a Leader in the 2018 Forrester Wave for Predictive Analytics and into the overall top spot in the 2018 Gartner Data Science Platforms Magic Quadrant
 
-### Chief Marketing Officer, Acquia
+### Chief Marketing Officer, [Acquia](https://www.acquia.com)
 *Dec 2012 to Nov 2015 · Boston*
 
 Responsible for global marketing strategy, demand generation, product marketing, and communications. Joined during Acquia's rapid growth phase; grew ARR from $45M to $135M.
@@ -48,6 +48,16 @@ Responsible for global marketing strategy, demand generation, product marketing,
 - Won the 2014 Marketo Revvie for most dramatic business impact, growing pipeline 129% Y/Y and driving more than 66% of new ARR in 2013
 - Led placement in the Leader quadrant of the 2014 and 2015 Gartner Magic Quadrant for Web Content Management, as the fastest rising vendor
 - Held the first two Acquia Engage customer conferences
+
+### Chief Marketing Officer, [Optimizely](https://www.optimizely.com)
+*Oct 2009 to Dec 2012 · Boston*
+
+Responsible for global marketing strategy and execution at Ektron, which later merged with Episerver and eventually rebranded as Optimizely after an acquisition. Joined as VP Product Marketing, running product marketing, developer marketing, analyst relations, and developer evangelism, before becoming CMO in 2011.
+
+- Grew license revenue by over 30% each year as CMO to over $50M
+- Modernized legacy marketing processes, cutting paid acquisition spend by 80% and decreasing CAC by 60%
+- Shifted go-to-market from mid-market to enterprise, lifting ASP 40% and driving record growth
+- Led placement in the Leader quadrant of the 2012 Gartner Magic Quadrant for Web Content Management
 
 ### Earlier
 
