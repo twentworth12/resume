@@ -17,6 +17,10 @@ My rule of thumb for marketing in 2026: **Marketing Output = AI × Taste²**
 
 Leading global marketing for the incident response and on-call platform. Running a team of nine, with most of my time going into the systems that let a small team punch above its weight: a centralized GTM context library, a swarm of agents, and a custom AI CMO.
 
+- Grew revenue over 400% while keeping the marketing team at nine, by rebuilding the function around AI-native systems rather than headcount
+- Built the most loved brand in the category: rated 4.8/5 on G2 with 219+ reviews, and ranked #1 by G2 for Relationship, overall performance, and momentum in Incident Management
+- Created the enterprise go-to-market with a 0-to-1 ABM investment: enterprise new-business bookings grew 6x in under two years, and the LinkedIn ABM program returns 27x on ad spend
+
 ### Chief Marketing Officer, [Recorded Future](https://www.recordedfuture.com)
 *Nov 2019 to Oct 2024 · Boston*
 
